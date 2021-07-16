@@ -10,4 +10,4 @@ client.snipes = new Discord.Collection();
     require(`./Handlers/${handler}`)(client);
 });
 
-client.login(process.env.TOKEN);
+client.login(ODY1NDU1NTkyNzAwNjQxMzIw.YPEQVA.EBk7VXjs_gUi8964Hc7BKqU76aA);
